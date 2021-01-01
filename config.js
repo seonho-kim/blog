@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://seonho-kim.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Seonho Kim',
   subtitle: 'Developer.',
   copyright: '© 2021. Seonho Kim, All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'seonho-kim',
   postsPerPage: 5,
   googleAnalyticsId: '',
   useKatex: false,
