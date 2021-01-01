@@ -1,0 +1,52 @@
+/** 
+ * Variables
+ */
+
+// Colors
+$color-base: #222;
+$color-author: #222;
+$color-author-hover: #AFB5BB;
+$color-primary: #0c24fc;
+$color-secondary: #FC0A2E;
+
+$color-selected: #ff004e;
+$color-focus:#00B0F0;
+
+$color-white: #FFF;
+$color-gray: lighten($color-base, 40%);
+$color-gray-border: lighten($color-base, 77%);
+$color-gray-bg: lighten($color-base, 79%);
+
+$color-sidbar-background: #0D1117;
+$color-content-background: #06090F;
+
+$color-contact: #0CA4FC;
+
+// Typographic
+$typographic-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+$typographic-root-font-size: 100;
+$typographic-base-font-size: 16px;
+$typographic-small-font-size: 14px;
+
+$typographic-base-line-height: 1.625;
+
+$typographic-base-font-color: $color-base;
+$typographic-color-menu: #C9D1CC;
+$typographic-link-p-font-color: $color-primary;
+$typographic-link-s-font-color: $color-secondary;
+
+$typographic-leading: round(16 * ($typographic-root-font-size / 100) * $typographic-base-line-height);
+
+// Buttons
+$button-height: 35px;
+$button-border-radius: 20px;
+
+// Layout
+$layout-post-single-width: 945px;
+$layout-post-width: $layout-post-single-width - 305px;
+
+$layout-width: 1070px;
+$layout-breakpoint-sm: 685px;
+$layout-breakpoint-md: 960px;
+$layout-breakpoint-lg: 1100px;
