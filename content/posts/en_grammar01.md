@@ -7,7 +7,7 @@ slug: "Grammar01"
 category: "English"
 tags:
   - "Grammar"
-description: "Gatsby를 이용한 블로그 시작하기"
+description: "영어 공부 하기"
 socialImage: "/media/seonho.jpg"
 ---
 ### 1. 문장성분
