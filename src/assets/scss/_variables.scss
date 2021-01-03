@@ -38,12 +38,16 @@ $typographic-link-s-font-color: $color-secondary;
 
 $typographic-leading: round(16 * ($typographic-root-font-size / 100) * $typographic-base-line-height);
 
+// code
+$inline-dimmed-color: #FFFBFE;
+$inline-text-color: #DA3A6A;
+
 // Buttons
 $button-height: 35px;
 $button-border-radius: 20px;
 
 // Layout
-$layout-post-single-width: 945px;
+$layout-post-single-width: 1000px;
 $layout-post-width: $layout-post-single-width - 305px;
 
 $layout-width: 1070px;

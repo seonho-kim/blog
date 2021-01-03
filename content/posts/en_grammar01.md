@@ -3,7 +3,7 @@ title: 영어 문법01
 date: "2021-01-02T23:11:07.656Z"
 template: "post"
 draft: false
-slug: "Grammar01"
+slug: "grammar01"
 category: "English"
 tags:
   - "Grammar"

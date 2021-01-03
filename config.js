@@ -8,8 +8,8 @@ module.exports = {
   copyright: '© 2021. Seonho Kim, All rights reserved.',
   disqusShortname: 'seonho-kim',
   postsPerPage: 5,
-  googleAnalyticsId: '',
-  useKatex: false,
+  googleAnalyticsId: 'G-1MNB278G5Y',
+  useKatex: true,
   menu: [
     // {
     //   label: 'Articles',
