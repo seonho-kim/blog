@@ -1,5 +1,5 @@
 ---
-title: 영어 문법01
+title: 01_문장의 요소
 date: "2021-01-02T23:11:07.656Z"
 template: "post"
 draft: false
@@ -7,7 +7,7 @@ slug: "grammar01"
 category: "English"
 tags:
   - "Grammar"
-description: "영어 공부 하기"
+description: "영어 공부 하기01"
 socialImage: "/media/seonho.jpg"
 ---
 ### 1. 문장성분

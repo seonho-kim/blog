@@ -1,5 +1,5 @@
 ---
-title: 영어 문법02
+title: 02_수식어구의 이해와 동사의문형
 date: "2021-01-03T22:53:26.568Z"
 template: "post"
 draft: false
@@ -7,7 +7,7 @@ slug: "grammar02"
 category: "English"
 tags:
   - "Grammar"
-description: "영어 공부 하기"
+description: "영어 공부 하기02"
 socialImage: "/media/seonho.jpg"
 ---
 ### 1. 형식
